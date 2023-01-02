@@ -8,7 +8,7 @@
 		"automattic/jetpack-assets": "^1.17.28",
 		"automattic/jetpack-constants": "^1.6.20",
 		"automattic/jetpack-status": "^1.15.3",
-		"automattic/jetpack-config": "^1.13.0-alpha"
+		"automattic/jetpack-config": "^1.13.0"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.0.4",
