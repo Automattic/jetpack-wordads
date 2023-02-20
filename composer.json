@@ -5,14 +5,14 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"automattic/jetpack-connection": "^1.51.0-alpha",
-		"automattic/jetpack-assets": "^1.17.31",
-		"automattic/jetpack-constants": "^1.6.20",
-		"automattic/jetpack-status": "^1.16.1",
+		"automattic/jetpack-assets": "^1.17.32-alpha",
+		"automattic/jetpack-constants": "^1.6.21-alpha",
+		"automattic/jetpack-status": "^1.16.2-alpha",
 		"automattic/jetpack-config": "^1.14.0-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.0.4",
-		"automattic/jetpack-changelogger": "^3.3.1"
+		"automattic/jetpack-changelogger": "^3.3.2-alpha"
 	},
 	"autoload": {
 		"classmap": [
@@ -32,9 +32,6 @@
 		],
 		"phpunit": [
 			"./vendor/phpunit/phpunit/phpunit --colors=always"
-		],
-		"test-coverage": [
-			"php -dpcov.directory=. ./vendor/bin/phpunit --coverage-clover \"$COVERAGE_DIR/clover.xml\""
 		],
 		"test-js": [
 			"pnpm run test"
