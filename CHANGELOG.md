@@ -5,12 +5,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.4.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.4.0] - 2024-11-18
 ### Removed
-- General: Update minimum PHP version to 7.2.
+- General: Update minimum PHP version to 7.2. [#40147]
 
 ## [0.3.39] - 2024-11-11
 ### Changed
@@ -30,9 +27,7 @@ This is an alpha version! The changes listed here are not final.
 
 ## [0.3.35] - 2024-10-07
 ### Changed
-- Updated package dependencies. [#39592]
-- Updated package dependencies. [#39594]
-- Updated package dependencies. [#39639]
+- Updated package dependencies. [#39592] [#39594] [#39639]
 
 ## [0.3.34] - 2024-09-30
 ### Changed
@@ -212,8 +207,7 @@ This is an alpha version! The changes listed here are not final.
 
 ## [0.2.50] - 2023-09-04
 ### Changed
-- Updated package dependencies. [#32803]
-- Updated package dependencies. [#32804]
+- Updated package dependencies. [#32803] [#32804]
 
 ## [0.2.49] - 2023-08-28
 ### Changed
@@ -225,8 +219,7 @@ This is an alpha version! The changes listed here are not final.
 
 ## [0.2.47] - 2023-07-25
 ### Changed
-- Updated package dependencies. [#31923]
-- Updated package dependencies. [#32040]
+- Updated package dependencies. [#31923] [#32040]
 - Update props passed to JetpackFooter [#31627]
 
 ## [0.2.46] - 2023-07-17
@@ -445,7 +438,7 @@ This is an alpha version! The changes listed here are not final.
 - PHPCS: Fix `WordPress.Security.ValidatedSanitizedInput`
 - Updated package dependencies.
 
-[0.4.0-alpha]: https://github.com/Automattic/jetpack-wordads/compare/v0.3.39...v0.4.0-alpha
+[0.4.0]: https://github.com/Automattic/jetpack-wordads/compare/v0.3.39...v0.4.0
 [0.3.39]: https://github.com/Automattic/jetpack-wordads/compare/v0.3.38...v0.3.39
 [0.3.38]: https://github.com/Automattic/jetpack-wordads/compare/v0.3.37...v0.3.38
 [0.3.37]: https://github.com/Automattic/jetpack-wordads/compare/v0.3.36...v0.3.37
