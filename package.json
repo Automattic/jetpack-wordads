@@ -34,7 +34,7 @@
 		"@automattic/color-studio": "4.1.0",
 		"@automattic/jetpack-analytics": "^0.1.36",
 		"@automattic/jetpack-api": "^0.20.3",
-		"@automattic/jetpack-components": "^0.73.3",
+		"@automattic/jetpack-components": "^0.73.4-alpha",
 		"@automattic/jetpack-shared-extension-utils": "^0.20.2",
 		"@wordpress/base-styles": "6.0.0",
 		"@wordpress/block-editor": "14.19.0",
