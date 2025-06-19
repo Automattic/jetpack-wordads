@@ -5,12 +5,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.4.29-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.4.29] - 2025-06-19
 ### Deprecated
-- Deprecate this package.
+- Deprecate this package. [#44012]
 
 ## [0.4.28] - 2025-06-16
 ### Changed
@@ -570,7 +567,7 @@ This is an alpha version! The changes listed here are not final.
 - PHPCS: Fix `WordPress.Security.ValidatedSanitizedInput`
 - Updated package dependencies.
 
-[0.4.29-alpha]: https://github.com/Automattic/jetpack-wordads/compare/v0.4.28...v0.4.29-alpha
+[0.4.29]: https://github.com/Automattic/jetpack-wordads/compare/v0.4.28...v0.4.29
 [0.4.28]: https://github.com/Automattic/jetpack-wordads/compare/v0.4.27...v0.4.28
 [0.4.27]: https://github.com/Automattic/jetpack-wordads/compare/v0.4.26...v0.4.27
 [0.4.26]: https://github.com/Automattic/jetpack-wordads/compare/v0.4.25...v0.4.26
