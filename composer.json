@@ -3,13 +3,14 @@
 	"description": "Earn income by allowing Jetpack to display high quality ads.",
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
+	"abandoned": true,
 	"require": {
 		"php": ">=7.2",
 		"automattic/jetpack-connection": "^6.13.5",
 		"automattic/jetpack-assets": "^4.0.27",
 		"automattic/jetpack-constants": "^3.0.8",
 		"automattic/jetpack-status": "^5.2.1-alpha",
-		"automattic/jetpack-config": "^3.1.0"
+		"automattic/jetpack-config": "^3.1.1-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
